@@ -34,4 +34,8 @@ git clone https://github.com/Yousuf9963/Port-scan-tcp.git
 
 cd Port-scan-tcp
 
+chmod +x *
+
 python3 scan.py
+
+Donation: https://www.buymeacoffee.com/junioprogrammer
